@@ -1,3 +1,4 @@
 # paper_email_catch
-download papers from IEEE Xplore and catch the email from those papers
-still editing and fixing...
+download large amount of papers from IEEE Xplore and catch the authors' email from those papers
+functions are works now
+still editing and optimizing...
